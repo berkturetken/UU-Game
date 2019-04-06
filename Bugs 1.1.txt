@@ -1,0 +1,17 @@
+1) Why isn't there any option to add 8 AI to the local tournament? (We have 0-3 options to select number of AIs)
+
+2) How many AI units? -> If I press two times wrongly, it gives errors... (photo on the photo)
+   --> There should be a loop, I guess
+3) How many players? -> If I press two times wrongly, it gives errors... 
+   --> There should be a loop, I guess
+4) No option to select AI's difficulty levels in the tournament
+.
+5) Better viewing below... (photo on the phone)
+
+6) After the tournament finishes, it goes back to the beginning of the tournament screen which shows "How many players?" part.
+   -->There should be a screen who wins that final round and also a table for the whole tournament again as a last screen for the tournament
+
+7) To play again, what key do I have to press? Because I quit every time whatever I press...
+8) While playing online versus, if a player types "quit", we get this prompt in the other terminal (photo on the phone)
+
+9) While booting the server for online game versus, there are some errors (photo on the photo)
